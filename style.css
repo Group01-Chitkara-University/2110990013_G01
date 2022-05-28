@@ -63,7 +63,35 @@ padding: 0px;
     width: 100%;
     height: 500px;
 }
-/* paste here */
+
+
+
+
+
+
+.e-form{
+    width: 100%;
+    height: auto;
+    padding: 100px 0px;
+
+}
+
+
+.e-form ul{
+    margin: 0px;
+    padding: 50px;
+    list-style: none;
+    background-color: #FaF1ea;
+
+
+}
+.e-form ul li{
+    width: 100%;
+    height: 50px;
+    margin-bottom: 10px;
+
+}
+
 
 .inp{
     width: 100%;
